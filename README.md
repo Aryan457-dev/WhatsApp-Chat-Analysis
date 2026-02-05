@@ -117,5 +117,19 @@ These visualizations help in understanding:
 
 The project successfully transforms raw WhatsApp chat data into structured insights, making it easy to analyze messaging behavior, identify trends, and visualize communication patterns effectively.
 
+## 🔗 Project Link
+
+You can view and run this project directly on **Google Colab** without any local setup:
+
+🔗 **Google Colab Notebook:**  
+https://colab.research.google.com/drive/1u8x__g9r2008vtn_XJ2dkeSpLXCvzn9K?usp=sharing
+
+The notebook contains:
+- Complete data preprocessing
+- User-specific filtering
+- All visualizations
+- Defensive error handling
+
+Simply open the link and run the cells sequentially.
 
 
